@@ -78,4 +78,4 @@ def perform(link)
   end
 end
 
-perform(Page)
+#perform(Page)
