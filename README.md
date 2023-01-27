@@ -1,3 +1,3 @@
 # THP-SO3-D04
 
-![GitHub repo size](https://img.shields.io/github/repo-size/rockethelll/README.md)
+![GitHub repo size](https://img.shields.io/github/repo-size/rockethelll/THP-SO3-D04/README.md)
